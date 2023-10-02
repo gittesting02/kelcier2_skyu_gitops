@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: bar
+  labels:
+    environment-id: env_12501148-3687-4939-ba9f-bc62721c1100
+    project-id: project_3cee811a-10b2-4f6d-a96c-1cd38ca986d8
+    project-name: kelcier2
+    environment-name: prod
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900
